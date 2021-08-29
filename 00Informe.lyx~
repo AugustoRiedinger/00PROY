@@ -1146,7 +1146,7 @@ Guvernamentales: para naves que operan en frecuencias que pertenecen a agencias
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "REFERENCES/REFERENCES"
-options "bibtotoc,elsarticle-harv"
+options "bibtotoc,IEEEtran"
 
 \end_inset
 
